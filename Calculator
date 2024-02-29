@@ -4,5 +4,7 @@ int main (){
 cout<<"Saad Kamboh"<<endl;
 cout<<"23-st-035"<<endl;
 cout<<"Addition of two numbers:"<<a+b<<endl;
-cou<<"subtraction of two numbers:"<<a-b<<endl;
+cout<<"subtraction of two numbers:"<<a-b<<endl;
+cout<<"Multiplication of two numbers:"<<a*b<<endl;
+cout<<"division of two numbers:"<<a/b<<endl;
 }
